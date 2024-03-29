@@ -6,6 +6,7 @@ body {
 }
 header {
     position: fixed;
+    width: 100%;
     background: linear-gradient(to left, #52D3D8, #525CEB);
     color: #fff;
     padding: 1em;
